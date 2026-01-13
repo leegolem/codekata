@@ -19,6 +19,29 @@
 | 5 | 배열의 평균값 | 2026-01-11 | Python | [🔗](https://school.programmers.co.kr/learn/courses/30/lessons/120817) |
 
 
+# Programmers Level 1 (2026-01-12, 5 problems)
+## 문제 리스트
+| No | 문제 | 날짜 | 언어 | 링크 |
+|----|------|------|------|------|
+| 11 | 짝수와 홀수    | 2026-01-12 | Python | [🔗](https://school.programmers.co.kr/learn/courses/30/lessons/12937) |
+| 12 | 평균 구하기       | 2026-01-12 | Python | [🔗](https://school.programmers.co.kr/learn/courses/30/lessons/12944) |
+| 13 | 자릿수 더하기             | 2026-01-12 | Python | [🔗](https://school.programmers.co.kr/learn/courses/30/lessons/12931) |
+| 14 | 약수의 합            | 2026-01-12 | Python | [🔗](https://school.programmers.co.kr/learn/courses/30/lessons/12928) |
+| 15 |  나머지가 1이 되는 수 찾기       | 2026-01-12 | Python | [🔗](https://school.programmers.co.kr/learn/courses/30/lessons/87389)|
+
+
+# Programmers Level 1 (2026-01-13, 5 problems)
+## 문제 리스트
+| No | 문제 | 날짜 | 언어 | 링크 |
+|----|------|------|------|------|
+| 16 | x만큼 간격이 있는 n개의 숫자 | 2026-01-13 | Python | [🔗](https://school.programmers.co.kr/learn/courses/30/lessons/12954)|
+| 17 | 자연수 뒤집어 배열로 만들기 | 2026-01-13 | Python | [🔗](https://school.programmers.co.kr/learn/courses/30/lessons/12932)|
+| 18 | 문자열을 정수로 바꾸기 | 2026-01-13 | Python | [🔗](https://school.programmers.co.kr/learn/courses/30/lessons/12925)|
+| 19 | 정수 제곱근 판별 | 2026-01-13 | Python | [🔗](school.programmers.co.kr/learn/courses/30/lessons/12934)|
+| 20 | 정수 내림차순으로 배치하기 | 2026-01-13 | Python | [🔗](https://school.programmers.co.kr/learn/courses/30/lessons/12933)|
+
+
+
 
 ### 기본양식
 | No | 문제 | 날짜 | 언어 | 링크 |
