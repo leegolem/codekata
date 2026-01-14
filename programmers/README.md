@@ -12,11 +12,11 @@
 ## 문제 리스트
 | No | 문제 | 날짜 | 언어 | 링크 |
 |----|------|------|------|------|
-| 1 | 두 수의 합 구하기| 2026-01-11 | Python | [🔗](https://school.programmers.co.kr/learn/courses/30/lessons/120802) |
-| 2 | 두 수의 나눗셈| 2026-01-11 | Python | [🔗](https://school.programmers.co.kr/learn/courses/30/lessons/120806) |
-| 3 | 각도기        | 2026-01-11 | Python | [🔗](https://school.programmers.co.kr/learn/courses/30/lessons/120829) |
-| 4 | 짝수의 합     | 2026-01-11 | Python | [🔗](https://school.programmers.co.kr/learn/courses/30/lessons/120831) |
-| 5 | 배열의 평균값 | 2026-01-11 | Python | [🔗](https://school.programmers.co.kr/learn/courses/30/lessons/120817) |
+| 6 | 두 수의 합 구하기| 2026-01-11 | Python | [🔗](https://school.programmers.co.kr/learn/courses/30/lessons/120802) |
+| 7 | 두 수의 나눗셈| 2026-01-11 | Python | [🔗](https://school.programmers.co.kr/learn/courses/30/lessons/120806) |
+| 8 | 각도기        | 2026-01-11 | Python | [🔗](https://school.programmers.co.kr/learn/courses/30/lessons/120829) |
+| 9 | 짝수의 합     | 2026-01-11 | Python | [🔗](https://school.programmers.co.kr/learn/courses/30/lessons/120831) |
+| 10 | 배열의 평균값 | 2026-01-11 | Python | [🔗](https://school.programmers.co.kr/learn/courses/30/lessons/120817) |
 
 
 # Programmers Level 1 (2026-01-12, 5 problems)
