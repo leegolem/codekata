@@ -41,10 +41,35 @@
 | 20 | 정수 내림차순으로 배치하기 | 2026-01-13 | Python | [🔗](https://school.programmers.co.kr/learn/courses/30/lessons/12933)|
 
 
+# Programmers Level 1 (2026-01-14, 5 problems)
+## 문제 리스트
+| No | 문제 | 날짜 | 언어 | 링크 |
+|----|------|------|------|------|
+| 21 | 햐사드 수 | 2026-01-14 | Python |[🔗](https://school.programmers.co.kr/learn/courses/30/lessons/12947)|
+| 22 | 두 정수 사이의 합 | 2026-01-14 | Python |[🔗](https://school.programmers.co.kr/learn/courses/30/lessons/12912)|
+| 23 | 콜라츠 추측 | 2026-01-14 | Python |[🔗](https://school.programmers.co.kr/learn/courses/30/lessons/12943)|
+| 24 | 서울에서 김서방 찾기 | 2026-01-14 | Python |[🔗](https://school.programmers.co.kr/learn/courses/30/lessons/12919)|
+| 25 | 나누어 떨어지는 숫자 배열  | 2026-01-14 | Python |[🔗](https://school.programmers.co.kr/learn/courses/30/lessons/12910)|
+
+
+# Programmers Level 1 (2026-01-16, 5 problems) 
+## 문제 리스트
+| No | 문제 | 날짜 | 언어 | 링크 |
+|----|------|------|------|------|
+| 26 | 음양 더하기 | 2026-01-16 | Python |[🔗](https://school.programmers.co.kr/learn/courses/30/lessons/76501)|
+| 27 | 핸드폰 번호 가리기 | 2026-01-16 | Python |[🔗](https://school.programmers.co.kr/learn/courses/30/lessons/12948)|
+| 28 | 없는 숫자 더하기 | 2026-01-16 | Python |[🔗](https://school.programmers.co.kr/learn/courses/30/lessons/86051)|
+| 29 | 제일 작은 수 구하기 | 2026-01-16 | Python |[🔗](https://school.programmers.co.kr/learn/courses/30/lessons/12935)|
+| 30 | 가운데 글자 가져오기 | 2026-01-16 | Python |[🔗](https://school.programmers.co.kr/learn/courses/30/lessons/12903)|
 
 
 ## 기본양식
 | No | 문제 | 날짜 | 언어 | 링크 |
+|----|------|------|------|------|
+|   |   |   | Python |[🔗]링크|
+|   |   |   | Python |[🔗]링크|
+|   |   |   | Python |[🔗]링크|
+|   |   |   | Python |[🔗]링크|
 |   |   |   | Python |[🔗]링크|
 
 
