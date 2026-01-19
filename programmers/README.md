@@ -63,6 +63,17 @@
 | 30 | 가운데 글자 가져오기 | 2026-01-16 | Python |[🔗](https://school.programmers.co.kr/learn/courses/30/lessons/12903)|
 
 
+
+# Programmers Level 2 (2026-01-19, 5 problems) 
+## 문제 리스트
+| No | 문제 | 날짜 | 언어 | 링크 |
+|----|------|------|------|------|
+| 31 | 수박수박수박수박수박수? | 2026-01-19 | Python |[🔗](https://school.programmers.co.kr/learn/courses/30/lessons/12922)|
+| 32 | 내적 | 2026-01-19 | Python |[🔗](https://school.programmers.co.kr/learn/courses/30/lessons/70128)|
+| 33 | 약수의 개수와 덧셈 | 2026-01-19 | Python |[🔗](https://school.programmers.co.kr/learn/courses/30/lessons/77884)|
+
+
+
 ## 기본양식
 | No | 문제 | 날짜 | 언어 | 링크 |
 |----|------|------|------|------|
