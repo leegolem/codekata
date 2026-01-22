@@ -64,7 +64,7 @@
 
 
 
-# Programmers Level 2 (2026-01-19, 5 problems) 
+# Programmers Level 2 (2026-01-19, 3 problems) 
 ## 문제 리스트
 | No | 문제 | 날짜 | 언어 | 링크 |
 |----|------|------|------|------|
@@ -72,6 +72,14 @@
 | 32 | 내적 | 2026-01-19 | Python |[🔗](https://school.programmers.co.kr/learn/courses/30/lessons/70128)|
 | 33 | 약수의 개수와 덧셈 | 2026-01-19 | Python |[🔗](https://school.programmers.co.kr/learn/courses/30/lessons/77884)|
 
+
+# Programmers Level 2 (2026-01-22, 3 problems) 
+## 문제 리스트
+| No | 문제 | 날짜 | 언어 | 링크 |
+|----|------|------|------|------|
+| 34 | 문자열 내림차순으로 배치하기 | 2026-01-22  | Python |[🔗](https://school.programmers.co.kr/learn/courses/30/lessons/12917)|
+| 35 | 부족한 금액 계산하기 | 2026-01-22 | Python |[🔗](https://school.programmers.co.kr/learn/courses/30/lessons/82612)|
+| 36 | 문자열 다루기 기본 | 2026-01-22 | Python |[🔗](https://school.programmers.co.kr/learn/courses/30/lessons/12918)|
 
 
 ## 기본양식
