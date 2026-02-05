@@ -81,6 +81,17 @@
 | 35 | 부족한 금액 계산하기 | 2026-01-22 | Python |[🔗](https://school.programmers.co.kr/learn/courses/30/lessons/82612)|
 | 36 | 문자열 다루기 기본 | 2026-01-22 | Python |[🔗](https://school.programmers.co.kr/learn/courses/30/lessons/12918)|
 
+# Programmers Level 2 (2026-02-05, 4 problems) 
+## 문제 리스트
+| No | 문제 | 날짜 | 언어 | 링크 |
+|----|------|------|------|------|
+| 37 | 행렬의 덧셈| 2026-02-05 | Python |[🔗](https://school.programmers.co.kr/learn/courses/30/lessons/12917)|
+| 38 | 직사각형 별찍기 | 2026-02-05 | Python |[🔗](https://school.programmers.co.kr/learn/courses/30/lessons/12969?language=python3#)|
+| 39 | 최대공약수와 최소공배수 | 2026-02-05 | Python |[🔗](https://school.programmers.co.kr/learn/courses/30/lessons/12940?language=python3)|
+| 40 | 3진법 뒤집기 | 2026-02-05 | Python |[🔗](https://school.programmers.co.kr/learn/courses/30/lessons/68935?language=python3)|
+
+
+
 
 ## 기본양식
 | No | 문제 | 날짜 | 언어 | 링크 |
